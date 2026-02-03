@@ -18,7 +18,7 @@
         "price": 109.99,
         "instructor": "Jane Smith",
         "isFeatured": false,
-        "image": "/courses/piano.jpg" 
+        "image": "/courses/piano.webp" 
       },
       {
         "id": 3,
@@ -88,7 +88,7 @@
         "price": 179.99,
         "instructor": "Grace Lee",
         "isFeatured": false,
-        "image": "/courses/classical-music.jpg"
+        "image": "/courses/song-writing.jpg"
       },
       {
         "id": 10,
